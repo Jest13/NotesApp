@@ -6,4 +6,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ThemeOverlay.search" parent="AppTheme">
+        <item name="android:editTextColor">@color/ColorWhite</item>
+
+        <item name="android:textColorHint">@color/ColorGrey</item>
+    </style>
+
 </resources>
